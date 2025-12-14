@@ -18,9 +18,9 @@ After each guess the game provides some **hints** using these letters:
 ### Screenshots
 
 <p align="center">
-  <img src="./screenshots/Screenshot1.png" alt="Game first guess" width="30%">
-  <img src="./screenshots/Screenshot2.png" alt="game lost" width="30%">
-  <img src="./screenshots/Screenshot3.png" alt="Game won" width="30%">
+  <img src="./screenshots/Screenshot1.png" alt="Game first guess" width="50%">
+  <img src="./screenshots/Screenshot2.png" alt="game lost" width="50%">
+  <img src="./screenshots/Screenshot3.png" alt="Game won" width="50%">
 </p>
 
 
