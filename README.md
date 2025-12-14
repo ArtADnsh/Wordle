@@ -1,6 +1,6 @@
 <h1 align="center">Wordle</h1>
 
-#### Video Demo: TODO
+#### Video Demo: (https://youtu.be/c6CDxWA-Ab8)
 #### Description:
 
 A simple **word-guessing game** implemented in Python.
@@ -10,10 +10,10 @@ This project is a terminal-based game inspired by the popular game **Wordle**, w
 The game randomly chooses a word from a **thirty-element list** of predefined words and asks the player to make guesses. If the player guesses the word correctly, the game ends with a **victory message**. However, if all six attempts are used without guessing the right word, the game ends with a **loss message**.
 
 After each guess the game provides some **hints** using these letters:
- 
+
 - **C** — the letter is correct and in the right position
 - **W** — the letter **is** in the word but in the wrong position
-- **N** — the letter **does not** exist in the word 
+- **N** — the letter **does not** exist in the word
 
 ### Screenshots
 
