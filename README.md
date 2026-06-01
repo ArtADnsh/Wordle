@@ -1,6 +1,5 @@
 <h1 align="center">Wordle</h1>
 
-#### Video Demo: (https://youtu.be/c6CDxWA-Ab8)
 #### Description:
 
 A simple **word-guessing game** implemented in Python.
